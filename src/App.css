@@ -1,0 +1,32 @@
+* {
+  margin: 0;
+}
+
+.App {
+  background-color: #111;
+}
+
+html,
+body {
+  scrollbar-width: thin;
+  scrollbar-color: #555555 #111111;
+}
+
+
+::-webkit-scrollbar {
+  width: 7px;
+  height: 5px;
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: #555555;
+  border-radius: 5px;
+}
+
+:hover::-webkit-scrollbar-thumb {
+  background-color: #555555;
+}
+
+:active::-webkit-scrollbar-thumb {
+  background-color: #444444;
+}
