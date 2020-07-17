@@ -17,7 +17,15 @@ changes just as it would on netflix.
 
 [Live Preview](https://netflix-clone-daefe.web.app/
 
+# How to set up the project on your local machine:
 
+1. Clone the repository to your local machine
+
+2. Navigate into the root folder of the project.
+
+3. Run "npm install" to install the node modules
+
+4. Run "npm start" to start the project on http://localhost:3000/
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
