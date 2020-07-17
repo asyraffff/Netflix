@@ -17,6 +17,9 @@ changes just as it would on netflix.
 
 [Live Preview](https://netflix-clone-daefe.web.app/
 
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
